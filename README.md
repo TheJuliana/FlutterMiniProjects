@@ -1,5 +1,5 @@
 # Current appearance
-![img_1.png](img_1.png) ![img_2.png](img_2.png)
+![img_1.png](img_1.png){: width="50%" height="50%"} ![img_2.png](img_2.png){: width="50%" height="50%"}
 
 -------
 
