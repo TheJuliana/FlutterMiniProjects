@@ -49,7 +49,7 @@ class _NewsPageState extends State<NewsPage> {
       final response = await http.get(Uri.parse('https://newsapi.org/v2/everything?q=tesla&from=$formattedDate&sortBy=publishedAt&apiKey=$apiKey'));
 
       final jsonData = json.decode(response.body);
-      print(jsonData);
+      //print(jsonData);
       if (jsonData['status'] == 'ok') {
         final List<dynamic> articles = jsonData['articles'];
         // Очищаем список перед добавлением новых элементов
@@ -95,7 +95,7 @@ class _NewsPageState extends State<NewsPage> {
                             news.urlToImage,
                             errorBuilder: (BuildContext context, Object exception, StackTrace? stackTrace) {
                               // Если загрузка изображения по URL не удалась, используется запасное изображение
-                              return Image.asset('../assets/images/news.png');
+                              return Image.asset('../assets/images/news.jpg');
                             },
                           ),
                           Padding(

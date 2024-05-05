@@ -44,7 +44,6 @@ class NewsDetailScreen extends StatelessWidget {
               padding: const EdgeInsets.all(8.0),
               child: Text(news.content),
             ),
-            // Другие детали новости
           ],
         ),
       ),

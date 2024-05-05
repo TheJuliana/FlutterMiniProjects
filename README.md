@@ -1,8 +1,13 @@
-# flutter_mini
+# Current appearance
+![img_1.png](img_1.png) ![img_2.png](img_2.png)
+
+-------
+
+## flutter_mini
 
 Mini Flutter projects
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
