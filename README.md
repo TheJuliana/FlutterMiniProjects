@@ -1,5 +1,8 @@
 # Current appearance
-![img_1.png](img_1.png) ![img_2.png](img_2.png)
+
+<img src="img_1.png" width="200" height="500"/>
+<img src="img_2.png" width="200" height="500"/>
+
 
 -------
 
