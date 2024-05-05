@@ -1,6 +1,6 @@
 # Current appearance
 
-<img src="img_1.png" width="300" height="500"/> <img src="img_2.png" width="300" height="500"/>
+<img src="img_1.png" width="280" height="500"/> <img src="img_2.png" width="280" height="500"/>
 
 
 -------
